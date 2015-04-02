@@ -1,0 +1,32 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;C:\Users\Shuo\Desktop\unit7ObjectOrientedDesign\ElevensLab\Activity1 Starter Code
+-d
+C:\Users\Shuo\Desktop\unit7ObjectOrientedDesign\ElevensLab\Activity1 Starter Code\doc
+-encoding
+US-ASCII
+-charset
+US-ASCII
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\Shuo\Desktop\unit7ObjectOrientedDesign\ElevensLab\Activity1 Starter Code\CardTester.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Shuo\Desktop\unit7ObjectOrientedDesign\ElevensLab\Activity1 Starter Code\CardTester.java...
+C:\Users\Shuo\Desktop\unit7ObjectOrientedDesign\ElevensLab\Activity1 Starter Code\CardTester.java:14: error: ';' expected
+        Card c2 = new Card("King")
+                                  ^
+1 error
